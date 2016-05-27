@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="lobanov.database.MainActivity">
+    <item
+        android:id="@+id/add"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add"/>
+    <item
+        android:id="@+id/deleteAll"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="DeleteAll"/>
+    <item
+        android:id="@+id/exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="Exit"/>
+</menu>
